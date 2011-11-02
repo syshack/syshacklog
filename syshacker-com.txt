@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+<title>祭奠青春</title>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0 - 所有文章" href="http://www.syshacker.com/feed"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0 - 所有评论" href="http://www.syshacker.com/comments/feed"/>
+<link rel="pingback" href="http://www.syshacker.com/xmlrpc.php"/>
+ 
+<style type="text/css" media="screen">@import url(http://www.syshacker.com/wp-content/themes/blocks2/style.css);</style>
+<!--[if IE]>
+	<![endif]-->
+ 
+ 
+<script type="text/javascript" src="http://www.syshacker.com/wp-content/themes/blocks2/js/base.js"></script>
+ 
+<link rel='stylesheet' id='slb_style-css' href='http://www.syshacker.com/wp-content/plugins/simple-lightbox/css/lightbox.css?ver=1.5.5.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-pagenavi-css' href='http://www.syshacker.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all'/>
+<script type='text/javascript' src='http://www.syshacker.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.syshacker.com/wp-includes/js/jquery/jquery.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://www.syshacker.com/wp-content/plugins/simple-lightbox/js/lib.js?ver=1.5.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.syshacker.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.syshacker.com/wp-includes/wlwmanifest.xml"/>
+<link rel='index' title='祭奠青春' href='http://www.syshacker.com'/>
+<meta name="generator" content="WordPress 3.2.1"/>
+<link rel="stylesheet" href="http://www.syshacker.com/wp-content/plugins/highslide4wp/highslide/highslide.css" type="text/css"/>
+<script type="text/javascript" src="http://www.syshacker.com/wp-content/plugins/highslide4wp/highslide/highslide-with-html.packed.js"></script>
+<script type="text/javascript">
+	hs.graphicsDir = "http://www.syshacker.com/wp-content/plugins/highslide4wp/highslide/graphics/";
+	hs.outlineType = "rounded-white";
+	hs.outlineWhileAnimating = true;
+	hs.showCredits = false;
+</script>
+<script type="text/javascript">/* <![CDATA[ */(function($){$(document).ready(function(){SLB.initialize({'validateLinks':false,'autoPlay':true,'slideTime':'6','loop':true,'overlayOpacity':'0.8','animate':true,'captionEnabled':true,'captionSrc':true,'layout':'<div id="slb_container"><div id="imageContainer">{slbContent}<div id="nav_hover">{navPrev}{navNext}</div><div id="loading">{slbLoading}</div></div></div><div id="slb_details" class="clearfix"><div id="imageData"><div id="imageDetails">{dataCaption}{dataNumber}<span id="slb_nav">{navPrev}{navNext}{navSlideControl}</span></div><div id="close">{slbClose}</div></div></div>','altsrc':'slb_src','relAttribute':['slb'],'prefix':'slb','strings':{'closeLink':'close','loadingMsg':'loading','nextLink':'next &raquo;','prevLink':'&laquo; prev','startSlideshow':'start slideshow','stopSlideshow':'stop slideshow','numDisplayPrefix':'Image','numDisplaySeparator':'of'}});})})(jQuery);/* ]]> */</script> <script type="text/javascript" src="http://www.syshacker.com/wp-content/plugins/syntax-highlighter-and-code-prettifier/scripts/shCore.js"></script>
+<script>
+		SyntaxHighlighter.config.clipboardSwf = 'http://www.syshacker.com/wp-content/plugins/syntax-highlighter-and-code-prettifier/scripts/clipboard.swf';
+		SyntaxHighlighter.all();
+	</script>
+</head>
+<body>
+<div id="wrap">
+<div id="container">
+ 
+<div id="header">
+<div id="title">
+<h1><a href="http://www.syshacker.com/">祭奠青春</a></h1>
+<div id="tagline">用文字祭奠转瞬即逝的青春!</div>
+</div>
+ 
+<div class="searchbox">
+<form action="http://www.syshacker.com/" method="get">
+<div class="content">
+<input type="text" class="textfield" name="s" size="24" value=""/>
+<input type="submit" class="button" value="搜索"/>
+</div>
+</form>
+</div>
+<div class="fixed"></div>
+</div>
+ 
+ 
+<div id="content">
+ 
+<div id="navigation">
+<ul id="menubar">
+<li class="current_page_item"><a title="首页" href="http://www.syshacker.com/">首页</a></li>
+<li class="page_item page-item-28"><a href="http://www.syshacker.com/aboutme" title="Me.Myblog">Me.Myblog</a></li>
+<li class="page_item page-item-724"><a href="http://www.syshacker.com/links" title="友情链接">友情链接</a></li>
+<li class="page_item page-item-57"><a href="http://www.syshacker.com/guestbook" title="留 言">留 言</a></li>
+</ul>
+<div id="subscribe" class="feed">
+<a title="订阅这个博客的文章" class="feedlink" href="http://www.syshacker.com/feed"><abbr title="Really Simple Syndication">RSS</abbr> 订阅</a>
+<ul>
+<li><a rel="external nofollow" title="订阅到鲜果" href="http://www.xianguo.com/subscribe.php?url=http://www.syshacker.com/feed"> 鲜果 </a></li>
+<li><a rel="external nofollow" title="订阅到抓虾" href="http://www.zhuaxia.com/add_channel.php?url=http://www.syshacker.com/feed"> 抓虾 </a></li>
+<li><a rel="external nofollow" title="订阅到有道" href="http://reader.yodao.com/#url=http://www.syshacker.com/feed"> 有道 </a></li>
+<li><a rel="external nofollow" title="订阅到 Google" href="http://fusion.google.com/add?feedurl=http://www.syshacker.com/feed"> Google </a></li>
+<li><a rel="external nofollow" title="订阅到 netvibes" href="http://www.netvibes.com/subscribe.php?url=http://www.syshacker.com/feed"> netvibes </a></li>
+<li><a rel="external nofollow" title="订阅到 newsgator" href="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=http://www.syshacker.com/feed"> newsgator</a></li>
+<li><a rel="external nofollow" title="订阅到 Bloglines" href="http://www.bloglines.com/sub/http://www.syshacker.com/feed"> Bloglines</a></li>
+<li><a rel="external nofollow" title="订阅到哪吒" href="http://inezha.com/add?url=http://www.syshacker.com/feed"> 哪吒 </a></li>
+</ul>
+</div>
+<div>
+<a title="Follow me!" class="twitterlink" href="http://twitter.com/xsean/">Twitter</a>
+</div>
+<span id="copyright">
+&copy; 2009-2011 祭奠青春 </span>
+<div class="fixed"></div>
+</div>
+ 
+ 
+<div id="main">
+<div class="
+	messagebox normalfont">
+<p>努力就有希望，有梦就有未来！</p>
+{name:"syshack",type:"Linuxer",Location:"BJ"} </div>
+<div class="post" id="post-1342">
+<h2 class="title"><a href="http://www.syshacker.com/archives/1342" rel="bookmark">PHP获取服务器状态的简单脚本</a></h2>
+<div class="meta">
+<div class="info">
+十 14th, 2011 | Posted by <a href="http://www.syshacker.com/archives/author/syshack" title="由 syshack 发布" rel="author">syshack</a> </div>
+<div class="comments">
+<a href="http://www.syshacker.com/archives/1342#respond" title="《PHP获取服务器状态的简单脚本》上的评论">没有评论</a> </div>
+<div class="fixed"></div>
+</div>
+<div class="content">
+<p>使用 snmp2_real_walk函数获取，并提取信息，格式化输出。 <a href="http://www.syshacker.com/archives/1342#more-1342" class="more-link">阅读全文&#8230;</a></p>
+<div class="fixed"></div>
+<div class="tags">标签: <a href="http://www.syshacker.com/archives/tag/php" rel="tag">php</a>, <a href="http://www.syshacker.com/archives/tag/snmp" rel="tag">snmp</a></div>
+</div>
+</div>
+<div class="post" id="post-1329">
+<h2 class="title"><a href="http://www.syshacker.com/archives/1329" rel="bookmark">获取执行脚本绝对路径的几个方法</a></h2>
+<div class="meta">
+<div class="info">
+十 14th, 2011 | Posted by <a href="http://www.syshacker.com/archives/author/syshack" title="由 syshack 发布" rel="author">syshack</a> </div>
+<div class="comments">
+<a href="http://www.syshacker.com/archives/1329#respond" title="《获取执行脚本绝对路径的几个方法》上的评论">没有评论</a> </div>
+<div class="fixed"></div>
+</div>
+<div class="content">
+<p>第一种</p>
+<pre class="brush:php">
+file=${0##*/}if [ "${0%%/*}" = "$0" ];
+then
+echo $PWD"/"$file
+else
+path=`cd ${0%%/*};pwd`
+echo $path"/"$filefi</pre>
+<p>第二种：<br/>
+获取脚本执行的pid<br/>
+然后：</p>
+<pre class="brush:php">
+ls -l /proc/$pid/exe|awk -F"&gt; " '{print $2}'</pre>
+<div class="fixed"></div>
+<div class="tags">标签: <a href="http://www.syshacker.com/archives/tag/bash" rel="tag">bash</a></div>
+</div>
+</div>
+<div class="post" id="post-1317">
+<h2 class="title"><a href="http://www.syshacker.com/archives/1317" rel="bookmark">Thx，Steve</a></h2>
+<div class="meta">
+<div class="info">
+十 5th, 2011 | Posted by <a href="http://www.syshacker.com/archives/author/syshack" title="由 syshack 发布" rel="author">syshack</a> </div>
+<div class="comments">
+<a href="http://www.syshacker.com/archives/1317#respond" title="《Thx，Steve》上的评论">没有评论</a> </div>
+<div class="fixed"></div>
+</div>
+<div class="content">
+<p><strong>Thanks，Steve！一个为梦想努力的人，一个改变了世界的人，愿你在天堂一切安好！</strong></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1318" title="see you steve" src="http://www.syshacker.com/wp-content/uploads/2011/10/jobs.bmp" alt="" width="500" height="500"/></p>
+<div class="fixed"></div>
+<div class="tags">标签: <a href="http://www.syshacker.com/archives/tag/jobs" rel="tag">Jobs</a>, <a href="http://www.syshacker.com/archives/tag/steve" rel="tag">Steve</a>, <a href="http://www.syshacker.com/archives/tag/%e8%8b%b9%e6%9e%9c" rel="tag">苹果</a></div>
+</div>
+</div>
+<div class="post" id="post-1307">
+<h2 class="title"><a href="http://www.syshacker.com/archives/1307" rel="bookmark">Squid+Openvpn实现站点WallBreak</a></h2>
+<div class="meta">
+<div class="info">
+八 11th, 2011 | Posted by <a href="http://www.syshacker.com/archives/author/syshack" title="由 syshack 发布" rel="author">syshack</a> </div>
+<div class="comments">
+<a href="http://www.syshacker.com/archives/1307#comments" title="《Squid+Openvpn实现站点WallBreak》上的评论">6 条评论</a> </div>
+<div class="fixed"></div>
+</div>
+<div class="content">
+<p>VPS买了一年多了多，上边搭了Openvpn服务，也没太用，安装客户端太麻烦，最近同事想WallBreak，我就想了下，想到可以用网关去拨VPN，然后其他人就可以WallBreak了。方案：用内网的一个闲置的linux做一个代理服务器，代理服务器去拨Openvpn，然后内网直接设置代理就OK了，具体的拓扑下图所示</p>
+<p><a rel="slb[slb_1307]" href="http://www.syshacker.com/wp-content/uploads/2011/08/翻墙.png"><img src="http://www.syshacker.com/wp-content/uploads/2011/08/翻墙.png" alt="" title="翻墙" width="808" height="423" class="aligncenter size-full wp-image-1308"/></a></p>
+<p> <a href="http://www.syshacker.com/archives/1307#more-1307" class="more-link">阅读全文&#8230;</a></p>
+<div class="fixed"></div>
+<div class="tags">标签: </div>
+</div>
+</div>
+<div class="post" id="post-1298">
+<h2 class="title"><a href="http://www.syshacker.com/archives/1298" rel="bookmark">【updated】搜索不到wifi的解决方法</a></h2>
+<div class="meta">
+<div class="info">
+八 7th, 2011 | Posted by <a href="http://www.syshacker.com/archives/author/syshack" title="由 syshack 发布" rel="author">syshack</a> </div>
+<div class="comments">
+<a href="http://www.syshacker.com/archives/1298#comments" title="《【updated】搜索不到wifi的解决方法》上的评论">2 条评论</a> </div>
+<div class="fixed"></div>
+</div>
+<div class="content">
+<p>这个问题困扰我很久了，搬家以后，无线网路总是有时候能搜索到有时候搜索不到，很郁闷的说。上个月就有一次笔记本突然间找不到自己屋子里的无线了，但是可以搜索到别人家的无线网络，google了很久，网卡驱动重新装了N次，后来放弃了，再后来突然又一天停电后，又找得到连得上，而且信号非常好，当时忙，也没在意，没去深挖是怎么个情况，能用就用呗。不过昨晚跳闸后，早上起来又连不上了，我就用新买的wr700n测试了下，新建个无线，连接没任何问题，那就说明无线网卡这边没问题，然后我拔了wr700n的电源，再插上，又连不上了，无线路由器设置没有改动，当时就蒙了。然后重新检查无线路由器设置，发现信道那里是设置的是自动，在路由器web界面的状态栏看着信道是13.然后 我再插再拔，搞了几次之后可以了，然后去一看信道是8，我就在想是不是和信道有关系，我就把信道那里的自动去掉，一个一个信道的测试，结果是</p>
+<blockquote><p>11以下的信道都可以检测到无线网络，而以上都不可以检测得到，就说明是信道的问题了，这也就解释了为何每次断电后无线发生异常的原因了，因为信道是自动，每次会自动选择，选到11以下就正常，11以上就无法找到网路。这下就简单了，登陆上家里的大无线路由器，把信道固定设置成8之后 ，一切正常了。</p>
+</blockquote>
+<p>谷歌了下，找到了解决方法，在无线网卡的驱动页，按以下设置<br/>
+<a rel="attachment wp-att-1301 slb[slb_1298] slb_src[http://www.syshacker.com/wp-content/uploads/2011/08/channelplan.jpg]" href="http://www.syshacker.com/archives/1298/channelplan"><img src="http://www.syshacker.com/wp-content/uploads/2011/08/channelplan.jpg" alt="channelplan设置" title="channelplan" width="404" height="420" class="aligncenter size-full wp-image-1301"/></a><br/>
+设置后，11以上的信道的wifi就可以使用了。Enjoy!</p>
+<div class="fixed"></div>
+<div class="tags">标签: <a href="http://www.syshacker.com/archives/tag/wifi" rel="tag">wifi</a>, <a href="http://www.syshacker.com/archives/tag/%e4%bf%a1%e9%81%93" rel="tag">信道</a></div>
+</div>
+</div>
+<div id="pagenavi">
+<div class='wp-pagenavi'>
+<span class='pages'>第 1 页，共 23 页</span><span class='current'>1</span><a href='http://www.syshacker.com/page/2' class='page larger'>2</a><a href='http://www.syshacker.com/page/3' class='page larger'>3</a><a href='http://www.syshacker.com/page/4' class='page larger'>4</a><a href='http://www.syshacker.com/page/5' class='page larger'>5</a><a href="http://www.syshacker.com/page/2" class="nextpostslink">&raquo;</a><a href='http://www.syshacker.com/page/10' class='larger page'>10</a><a href='http://www.syshacker.com/page/20' class='larger page'>20</a><span class='extend'>...</span><a href='http://www.syshacker.com/page/23' class='last'>最旧 &raquo;</a>
+</div> <div class="fixed"></div>
+</div>
+</div>
+ 
+ 
+<div id="sidebar">
+ 
+<div class="widget widget_recent_entries"> <h3>近期文章</h3> <ul>
+<li><a href="http://www.syshacker.com/archives/1342" title="PHP获取服务器状态的简单脚本">PHP获取服务器状态的简单脚本</a></li>
+<li><a href="http://www.syshacker.com/archives/1329" title="获取执行脚本绝对路径的几个方法">获取执行脚本绝对路径的几个方法</a></li>
+<li><a href="http://www.syshacker.com/archives/1317" title="Thx，Steve">Thx，Steve</a></li>
+<li><a href="http://www.syshacker.com/archives/1307" title="Squid+Openvpn实现站点WallBreak">Squid+Openvpn实现站点WallBreak</a></li>
+<li><a href="http://www.syshacker.com/archives/1298" title="【updated】搜索不到wifi的解决方法">【updated】搜索不到wifi的解决方法</a></li>
+</ul>
+</div><div class="widget widget_recentcomments"><h3>最新评论</h3><ul><li class="rc-navi rc-clearfix"><span class="rc-loading">正在加载...</span></li><li id="rc-comment-temp" class="rc-item rc-comment rc-clearfix"><div class="rc-info"></div><div><div class="rc-excerpt"></div></div></li><li id="rc-ping-temp" class="rc-item rc-ping rc-clearfix"><span class="rc-label"></span></li></ul></div><div class="widget widget_multicollinks"><h3>传送门</h3><ul><li class="ml_item"><a href="http://www.anopos.com" title="人生就是选择,选择的关键在于认识自我" target="_blank">anopos</a></li><li class="ml_item"><a href="http://ludatou.com" title="DBA" target="_blank">Luda’s DBA Life</a></li><li class="ml_item"><a href="http://www.bymg.com" title="提供各种自行开发的中文Wordpress插件和模板" target="_blank">MG Core Team</a></li><li class="ml_item"><a href="http://www.bymg.com" title="提供各种自行开发的中文Wordpress插件和模板" target="_blank">MG Core Team</a></li><li class="ml_item"><a href="http://www.yueye.org" title="分享网络知识·享受快乐生活">月夜博客</a></li><li class="ml_item"><a href="http://www.gongpeng.net" title="" target="_blank">龚鹏的摄影个人网站</a></li></ul></div>
+ 
+</div>
+ 
+<div class="fixed"></div>
+ 
+<div id="footer">
+<div id="about">
+Powered by <a href="http://wordpress.org/">WordPress</a> | Theme by <a href="http://www.neoease.com/">NeoEase</a> | Valid <a href="http://validator.w3.org/check?uri=referer">XHTML 1.1</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">CSS 3</a> </div>
+<ul id="admin">
+<li><a href="http://www.syshacker.com/wp-login.php">登录</a></li>
+<li id="gotop"><a href="#" onclick="MGJS.goTop();return false;">置顶</a></li>
+</ul>
+<div class="fixed"></div>
+</div>
+ 
+</div>
+ 
+</div> 
+</div> 
+<script type='text/javascript' src='http://www.syshacker.com/wp-content/plugins/wp-recentcomments/js/wp-recentcomments-jquery.js?ver=2.0.6'></script>
+<script type="text/javascript">
+//<![CDATA[
+var rcGlobal = {
+	serverUrl		:'http://www.syshacker.com',
+	infoTemp		:'%REVIEWER% 在 %POST%',
+	loadingText		:'正在加载',
+	noCommentsText	:'没有任何评论',
+	newestText		:'&laquo; 最新的',
+	newerText		:'&laquo; 上一页',
+	olderText		:'下一页 &raquo;',
+	showContent		:'1',
+	external		:'1',
+	avatarSize		:'32',
+	avatarPosition	:'left',
+	anonymous		:'匿名',
+	initJson		:{items:[{"avatarImage":"","postTitle":"linux下安装RealTek RTL8101E网卡驱动","postUrl":"http://www.syshacker.com/archives/962","reviewerName":"123","reviewerUrl":"","excerpt":"??","id":"892","type":""},{"avatarImage":"","postTitle":"Squid+Openvpn实现站点WallBreak","postUrl":"http://www.syshacker.com/archives/1307","reviewerName":"syshack","reviewerUrl":"","excerpt":"测试","id":"891","type":""},{"avatarImage":"","postTitle":"Squid+Openvpn实现站点WallBreak","postUrl":"http://www.syshacker.com/archives/1307","reviewerName":"syshack","reviewerUrl":"","excerpt":"改天再写个ssh tunnel的~","id":"890","type":""},{"avatarImage":"","postTitle":"Squid+Openvpn实现站点WallBreak","postUrl":"http://www.syshacker.com/archives/1307","reviewerName":"allen","reviewerUrl":"","excerpt":"不错的文章","id":"889","type":""},{"avatarImage":"","postTitle":"Squid+Openvpn实现站点WallBreak","postUrl":"http://www.syshacker.com/archives/1307","reviewerName":"syshack","reviewerUrl":"","excerpt":"测试邮件~~","id":"888","type":""}],navi:{more:"1",page:"1"}}};
+//]]>
+</script>
+</body>
+</html>
