@@ -61,10 +61,10 @@ class RecordDdns(_DomainApiBase):
         ))
         _DomainApiBase.__init__(self, **kw)
 def ddns():
-    email = "syshack@163.com"
-    password = "7758521"
-    domain = "7eus.com"
-    sub_domain = "pi"
+    email = "你的账户"
+    password = "你的密码"
+    domain = "你的域名"
+    sub_domain = "你的子域名"
     record_type = "A"
     record_line='默认'
     api = DomainList(email=email, password=password)
