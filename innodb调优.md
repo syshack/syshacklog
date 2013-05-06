@@ -55,3 +55,6 @@ InnoDB最重要的设置，这个参数确定了要预留多少内存来缓存�
 ### innodb_log_file_size
 
 确定数据日志文件的大小，以M为单位，更大的设置可以提高性能，但也会增加恢复故障数据库所需的时间,2G内为佳。
+
+
+http://www.mysqlops.com/2011/10/26/mysql-variable-third.html
