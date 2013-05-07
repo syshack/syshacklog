@@ -22,7 +22,19 @@ InnoDB最重要的设置，这个参数确定了要预留多少内存来缓存�
 
 为0时，日志缓冲每秒一次地被写到日志文件，并且对日志文件做到磁盘操作的刷新。任何mysqld进程的崩溃会删除崩溃前最后一秒的事务。
 
+经常配合sync_binlog设置
+
+N>0  — 每向二进制日志文件写入N条SQL或N个事务后，则把二进制日志文件的数据刷新到磁盘上；
+
+N=0  — 不主动刷新二进制日志文件的数据到磁盘上，而是由操作系统决定；
+
+
+
 ## IO相关参数
+
+### innodb_file_per_table
+
+启用单表空间，减少共享表空间维护成本，减少空闲磁盘空间释放的压力。大数据量情况下会有性能上的提升，为此建议大家使用独立表空间代替共享表空间的方式；
 
 ### innodb_flush_method
 
@@ -56,5 +68,8 @@ InnoDB最重要的设置，这个参数确定了要预留多少内存来缓存�
 
 确定数据日志文件的大小，以M为单位，更大的设置可以提高性能，但也会增加恢复故障数据库所需的时间,2G内为佳。
 
+可以使用：show status like 'Innodb_os_log_written'; select sleep(60); show status like 'Innodb_os_log_written';
 
-http://www.mysqlops.com/2011/10/26/mysql-variable-third.html
+查看每分钟写多大，然后确定此值的大小。
+
+
