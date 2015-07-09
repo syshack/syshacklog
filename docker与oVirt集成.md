@@ -2,21 +2,30 @@
 
 ### vm上运行docker
 **准备工作**
+
 从官方的glance服务器导入虚拟机模板（CentOS 6.5 64-Bit Docker）
+
 **插件安装及配置**
+
 1. 上传插件到:/usr/share/ovirt-engine/ui-plugins/
 2. 修改docker.json 红色框内修改为ovirt-engine api的信息
+
 ![Alt text](./1420426837394.png)
+
 3. 重启ovirt-engine，在虚拟机界面就会看到"Create Docker VM"的按钮。
 
 **使用**
 1. 点击"Create Docker VM"，弹出如下图界面：
+
 ![Alt text](./1420427412326.png)
 
 2. 按提示输入信息，确认就会创建虚拟机
 3. 启动虚拟机，就会同时启动docker
+
 ![Alt text](./1420427445437.png)
+
 4. 访问192.168.21.159，会出现nginx的欢迎界面
+
 ![Alt text](./1420427560632.png)
 
 
@@ -30,6 +39,7 @@
 
 
 ### oVirt node直接运行docker容器（草案）
+
 目前还是草案，资料地址：
 [Docker Integration](http://www.ovirt.org/Features/Docker_Integration)
 
@@ -40,5 +50,6 @@
 5. 增加docker管理界面，支持容器的创建，编辑，运行，停止
 
 **工作流：**
+
 创建：添加支持docker的主机到集群并添加标记信息，容器管理界面选择docker镜像，填写port映射，文件系统映射等信息传给engine，engine选择支持docker的主机（通过标记信息确定）创建容器。
 编辑/运行/停止：和vm一致，web调用engine api，engine调用vdsm的api操作docker容器。
